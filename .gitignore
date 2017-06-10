@@ -1,4 +1,4 @@
 # custom .gitignore file.
 
 # Ignore JetBrains .idea folders
-.idea
+.idea/*
