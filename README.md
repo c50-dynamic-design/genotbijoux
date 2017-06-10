@@ -1,9 +1,9 @@
 <!-- @file Instructions on how to sub-theme the Drupal Bootstrap base theme using the CDN Starterkit. -->
 <!-- @defgroup sub_theming_cdn -->
 <!-- @ingroup sub_theming -->
-# CDN Starterkit
+# CDN GenotBijoux
 
-The CDN Starterkit is rather simple to set up. You don't have to do anything
+The CDN GenotBijoux es a Drupal 8 Bootstrap sub-theme. You don't have to do anything
 until you wish to override the default [Drupal Bootstrap] base theme settings
 or provide additional custom CSS.
 
@@ -16,7 +16,7 @@ or provide additional custom CSS.
 Read the @link subtheme Sub-theming @endlink parent topic.
 
 ## Override Styles {#styles}
-Open `./THEMENAME/css/style.css` and modify the file to your liking.
+Open `./genotbijoux/css/style.css` and modify the file to your liking.
 
 ## Override Settings {#settings}
 Please refer to the @link theme_settings Sub-theme Settings @endlink topic.
