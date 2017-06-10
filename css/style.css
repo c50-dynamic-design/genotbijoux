@@ -1,3 +1,6 @@
 /**
  * Place your custom styles here.
  */
+.name.navbar-brand {
+  display: none;
+}
