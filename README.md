@@ -13,7 +13,8 @@ or provide additional custom CSS.
 - [Override Templates and Theme Functions](#registry)
 
 ## Prerequisite
-Read the @link subtheme Sub-theming @endlink parent topic.
+Read the @link subt
+heme Sub-theming @endlink parent topic.
 
 ## Override Styles {#styles}
 Open `./genotbijoux/css/style.css` and modify the file to your liking.
