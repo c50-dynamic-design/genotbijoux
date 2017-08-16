@@ -14,3 +14,7 @@
 .img-responsive {
   padding: 1em;
 }
+
+img.align-left {
+  padding-right: 1em;
+}
