@@ -14,4 +14,21 @@
 
 # This file cannot be empty, so install an initial empty array for "schemas".
 # @see https://www.drupal.org/node/2813829
-schemas: []
+schemas:
+  bootstrap: 8000
+  genotbijoux: 8000
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: 'http://genotbijoux.be/themes/bootstrap/favicon.ico'
+  use_default: true
+features:
+  comment_user_picture: true
+  comment_user_verification: true
+  favicon: true
+  node_user_picture: true
+logo:
+  path: themes/genotbijoux/logo.png
+  url: ''
+  use_default: false
+table: ''
