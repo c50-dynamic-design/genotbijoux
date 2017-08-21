@@ -19,6 +19,6 @@ img.align-left {
   padding-right: 1em;
 }
 
-.btn.btn-default {
-  margin-top:1em;
+.links.inline.list-inline {
+  margin-top: 5px;
 }

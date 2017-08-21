@@ -17,5 +17,4 @@ function genotbijoux_preprocess_links(&$variables) {
   if (isset($variables['links']['comment-add'])) {
     $variables['links']['comment-add']['link']['#options']['attributes']['class'][] = 'btn btn-default';
   }
-
 }
