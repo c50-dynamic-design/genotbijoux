@@ -18,3 +18,7 @@
 img.align-left {
   padding-right: 1em;
 }
+
+.links.inline.list-inline {
+  margin-top: 5px;
+}
