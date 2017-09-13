@@ -7,4 +7,4 @@ nanum-gothic:
   version: 0.1.0
   css:
     theme:
-      bower_components/NanumGothic/NanumGothic.css: {}
+      NanumGothic.css: {}
