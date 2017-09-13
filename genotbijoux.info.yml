@@ -21,3 +21,4 @@ regions:
 
 libraries:
   - 'genotbijoux/global-styling'
+  - 'genotbijoux/nanum-gothic'

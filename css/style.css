@@ -30,3 +30,10 @@ em {
   color: #4A4A4A;
   line-height: 34px;
 }
+
+body {
+  /* erer: */
+  font-family: NanumGothic;
+  font-size: 20px;
+  color: #4A4A4A;
+}
