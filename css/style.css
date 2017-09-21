@@ -1,3 +1,125 @@
+/* Sticky Header */
+.sticky {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1001;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
+  border-top: 2px solid #0088CC;
+}
+
+.sticky .header-top {
+  display: none;
+}
+
+/**
+ * Buttons.
+ */
+
+#block-socialicons {
+  float: right;
+}
+
+.button {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: normal;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid;
+  white-space: nowrap;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  color: #333333;
+  background-color: #FFFFFF;
+  border-color: #ccc;
+}
+.button:hover {
+  color: #333333;
+  background-color: #ebebeb;
+  border-color: #adadad;
+}
+
+.button--primary {
+  color: #FFFFFF;
+  border-color: #0088CC;
+  background-color: #0088CC;
+}
+.button--primary:hover {
+  color: #FFFFFF;
+  background-color: #0099e6;
+  border-color: #a1a1a1;
+}
+
+.button--xs {
+  padding: 1px 5px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+.button--xs:hover {
+  text-decoration: none;
+}
+
+.button--icon {
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+}
+
+/* Social Icons */
+ul.social-icons {
+  margin: 0;
+  padding: 0;
+  width: auto;
+}
+
+ul.social-icons > li {
+  list-style: none;
+  margin-left: 1px;
+  display: inline-block;
+}
+
+ul.social-icons > li > a {
+  color: #808B8D;
+}
+
+ul.social-icons > li i {
+  width: 34px;
+  line-height: 28px;
+  border-right: 1px solid #F2F2F2;
+  font-size: 16px;
+}
+
+ul.social-icons > li:last-child i {
+  border-right: none;
+}
+
+ul.social-icons .fa-facebook:hover {
+  background: #507CBE;
+  color: #FFFFFF;
+}
+
+ul.social-icons .fa-linkedin:hover {
+  background: #007bb6;
+  color: #FFFFFF;
+}
+
+ul.social-icons .fa-twitter:hover {
+  background: #63CDF1;
+  color: #FFFFFF;
+}
+
+ul.social-icons .fa-google-plus:hover {
+  background: #F16261;
+  color: #FFFFFF;
+}
+
 /**
  * Place your custom styles here.
  */
