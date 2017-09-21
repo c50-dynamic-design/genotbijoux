@@ -7,4 +7,4 @@ font-awesome:
      version: 4.7.0
      css:
        theme:
-         font-awesome/css/font-awesome.min.css: {}
+         vendor/font-awesome/css/font-awesome.min.css: {}
