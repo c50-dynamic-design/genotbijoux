@@ -3,8 +3,8 @@ global-styling:
     theme:
       css/style.css: {}
 
-font-awesome:
-     version: 4.7.0
-     css:
-       theme:
-         vendor/font-awesome/css/font-awesome.min.css: {}
+fontawesome.cdn:
+  version: 4.5.0
+  css:
+    theme:
+      //maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css: { type: external, minified: true }

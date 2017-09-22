@@ -22,4 +22,4 @@ regions:
 
 libraries:
   - 'genotbijoux/global-styling'
-  - 'genotbijoux/font-awesome'
+  - 'genotbijoux/fontawesome.cdn'
