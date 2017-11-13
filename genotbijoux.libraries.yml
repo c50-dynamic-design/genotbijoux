@@ -1,20 +1,32 @@
-bootstrap:
-  version: 3.3.6
-  css:
-    theme:
-      vendor/bootstrap/css/bootstrap.min.css: {}
-      vendor/bootstrap/css/bootstrap-theme.min.css: {}
-  js:
-    vendor/bootstrap/js/bootstrap.min.js: {}
-  dependencies:
-    - core/jquery
-
-base:
+global-styling:
   version: VERSION
   css:
     theme:
-      css/styles.css: {}
+      css/style.css: {}
   js:
     js/genotbijoux.js: {}
+  dependencies:
+    - core/jquery
+
+font-awesome:
+  version: 4.5.0
+  css:
+    theme:
+      //maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css: { type: external, minified: true }
+
+flexslider:
+  version: 2.5.0
+  css:
+    theme:
+      vendor/flexslider/flexslider.css: {}
+  js:
+    vendor/flexslider/jquery.flexslider-min.js: {}
+  dependencies:
+    - core/jquery
+
+scroll-to:
+  version: 2.1.1
+  js:
+    vendor/jquery-scrollTo/jquery.scrollTo.min.js: {}
   dependencies:
     - core/jquery

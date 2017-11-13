@@ -1,6 +1,6 @@
 core: 8.x
 type: theme
-base theme: false
+base theme: bootstrap
 
 name: 'GenotBijoux'
 description: 'A responsive Drupal8 theme.'
@@ -29,4 +29,6 @@ regions:
 
 libraries:
   - 'genotbijoux/bootstrap'
-  - 'genotbijoux/base'
+  - 'genotbijoux/global-styling'
+  - 'genotbijoux/webfonts'
+  - 'genotbijoux/font-awesome'
