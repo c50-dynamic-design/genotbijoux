@@ -1248,3 +1248,36 @@ nav.tabs {
 .alert {
   margin-top: 1em;
 }
+
+/**
+ * Place your custom styles here.
+ */
+#navbar > div.navbar-header > div > a > img {
+  vertical-align: middle;
+  padding: 0.3em;
+}
+
+.navbar-default .navbar-brand {
+  position: absolute;
+  text-indent: -9999px;
+}
+
+.img-responsive {
+  padding: 1em;
+}
+
+img.align-left {
+  padding-right: 1em;
+}
+
+.links.inline.list-inline {
+  margin-top: 5px;
+}
+
+em {
+  /* Du Bijou à la pierre: */
+  font-family: Palatino-Italic;
+  font-size: 24px;
+  color: #4A4A4A;
+  line-height: 34px;
+}
