@@ -28,7 +28,6 @@ regions:
   footer_bottom_right: 'Footer Bottom Right'
 
 libraries:
-  - 'genotbijoux/bootstrap'
   - 'genotbijoux/global-styling'
   - 'genotbijoux/webfonts'
   - 'genotbijoux/font-awesome'
