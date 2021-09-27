@@ -3,7 +3,7 @@
 <!-- @ingroup sub_theming -->
 # CDN GenotBijoux
 
-The CDN GenotBijoux is a Drupal 8 Bootstrap sub-theme.
+The CDN GenotBijoux is a Drupal 8 or 9 Bootstrap sub-theme.
 
 [Drupal Bootstrap]: https://www.drupal.org/project/bootstrap
 [Bootstrap Framework]: http://getbootstrap.com
